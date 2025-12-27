@@ -27,6 +27,3 @@ Which products have the highest ratings on Amazon, and how many products have a 
 - Several products achieved a perfect 5.0 rating
 - Most top-rated products had fewer reviews, indicating possible bias
 
-## Next Steps
-- Analyze relationship between ratings and number of reviews
-- Visualize rating distribution
